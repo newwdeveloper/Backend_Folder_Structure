@@ -1,5 +1,5 @@
 .env
 node_modules/
 combined.log
-
+src/config/config.json
 
